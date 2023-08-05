@@ -53,4 +53,4 @@ const product = new ProductManager();
     el producto o que arroje un error en caso de no existir.
 */
 
-product.delateProduct(1)
+//product.delateProduct(1)
